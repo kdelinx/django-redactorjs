@@ -40,12 +40,12 @@ Config for redactor static
 ```
 REDACTOR_CSS = {
     'all': (
-        'imperavi/css/redactor.css',)
+        'redactor/css/redactor.css',)
 }
 REDACTOR_JS = [
     'http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js',
-    'imperavi/js/redactor.js',
-    'imperavi/js/ru.js',
+    'redactor/js/redactor.js',
+    'redactor/lang/ru.js',
 ]
 ```
 
